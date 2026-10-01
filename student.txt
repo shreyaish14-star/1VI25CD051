@@ -1,2 +1,9 @@
 name:Shreyaa
 USN: 1VI25CD051
+git remote add origin https://github.com/shreyaish14-star/1VI25CD051.git
+git branch -M main
+git push -u origin main
+
+Data science engineering
+2nd yr 
+
